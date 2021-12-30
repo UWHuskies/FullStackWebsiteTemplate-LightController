@@ -9,11 +9,9 @@ Local Server on React
 ## Backend Server (Python, and Flask)
 Local Server on Flask
 ## DataBase Server (SQL, SQL Server, and SQL Server Microsoft Studio). 
-Local Server on SQL Server
-I built a full stack website where users can interact with real-time databases through APIs. This project shows my programming and critical mindset, so that I can program robotic motors and sensors. 
+Local Server on SQL Server 
 
 
 Note:
 Comment out code in app.py/LEDswitch.py files are the lgiht controlling raspberry pi project
-
 comments in index.js shows the improvements/furtherments of the project
