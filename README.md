@@ -2,7 +2,7 @@
 
 1. Display personal Portfolio on the Front End from a local server database
 2. User can interact with the database by add/update/delete content.
-3.The buttons on the Hobbies section turns a LED light On and Off. This light is connected to a raspberry pi which host a Flask web server for this communication.  
+3. A light controller on the Front End communciates to a Flask web server which operates on a raspberry pi  
 
 ## Frontend (HTML5,CSS/SCSS, JavaScript, React) 
 Local Server on React
@@ -14,6 +14,6 @@ I built a full stack website where users can interact with real-time databases t
 
 
 Note:
-Comment out code in app.py/LEDswitch.py file for testing the swithc for the raspberry pi project
+Comment out code in app.py/LEDswitch.py files are the lgiht controlling raspberry pi project
 
 comments in index.js shows the improvements/furtherments of the project
